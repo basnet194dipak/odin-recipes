@@ -70,7 +70,6 @@ By completing this project, I practiced:
     ```bash
    git clone https://github.com/basnet194dipak/odin-recipes.git
     ```
-
     - cd odin-recipes
 
     - Open `index.html` in a web browser.
