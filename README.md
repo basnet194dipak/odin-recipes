@@ -4,6 +4,7 @@
 A simple recipes website  built as part of [The Odin Project curriculum](https://www.theodinproject.com/paths) following the [The Odin Project - Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
 
 ## Project structure:
+```text
 odin-recipes
     ├── README.md
     ├── images
@@ -14,10 +15,10 @@ odin-recipes
     └── recipes
         ├── ChickenEnchiladas.html
         ├── ChickenNoodleCasserole.html
-        └── lasagna.html
+        └── lasagna.html 
+```
 
 ## Project Requirements:
-## Project Requirements
 
 ### Iteration 1: Initial Structure
 
