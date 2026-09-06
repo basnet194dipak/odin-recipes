@@ -68,7 +68,7 @@ By completing this project, I practiced:
 1. Clone the repository:
 
     - ```bash
-   git clone https://github.com/your-username/odin-recipes.git
+   git clone https://github.com/basnet194dipak/odin-recipes.git
 
     - cd odin-recipes
 
