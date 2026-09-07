@@ -12,6 +12,7 @@ odin-recipes
     │   ├── Lasagna.png
     │   └── fff.webp
     ├── index.html
+    ├── style.css
     └── recipes
         ├── ChickenEnchiladas.html
         ├── ChickenNoodleCasserole.html

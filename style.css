@@ -2,7 +2,7 @@ h1,
 ul {
     text-align: center;
     font-size: 60px;
-    list-style-type: none;
+    /* list-style-type: none; */
 }
 
 ul {
@@ -33,4 +33,64 @@ a:hover {
     text-decoration: underline;
     padding: 10px;
     background-color: yellow;
+    border-radius: 20%;
+}
+
+.ingredients ul {
+    text-align: left;
+    /* background-color: aqua; */
+}
+
+.description h2 {
+    font-size: 21px;
+    padding-left: 20px;
+}
+
+.description p {
+
+    padding: 20px;
+    font-size: 20px;
+    background-color: red;
+}
+
+.heading {
+    text-align: center;
+    background-color: rgb(3, 160, 165);
+    padding: 22px;
+}
+
+img {
+    height: 40%;
+    width: 40%;
+}
+
+footer {
+    background-color: blue;
+    padding: 20px;
+}
+
+footer>ul>li {
+    display: inline;
+}
+
+footer>ul>li>a {
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50%;
+}
+
+.steps {
+    background-color: aquamarine;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.steps h3 {
+    font-size: 28px;
+}
+
+.ingredients {
+    background-color: aliceblue;
+    padding: 10px;
 }
