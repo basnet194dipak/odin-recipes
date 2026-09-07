@@ -1,0 +1,36 @@
+h1,
+ul {
+    text-align: center;
+    font-size: 60px;
+    list-style-type: none;
+}
+
+ul {
+    font-size: 32px;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-emphasis: circle red;
+    text-decoration: underline;
+    margin-bottom: 60px;
+}
+
+li {
+    margin: 10px;
+    text-decoration: none;
+    margin: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    background-color: goldenrod;
+}
+
+a:hover {
+    text-decoration: underline;
+    padding: 10px;
+    background-color: yellow;
+}
